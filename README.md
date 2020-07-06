@@ -6,11 +6,11 @@
 * Run the script `npm run mock-server`
 
 
-##Examples:
+## Getting started
 
-GET http:\\localhost:3000\api\books
+### GET http:\\localhost:3000\api\books
 
-Result:
+#### Result:
 {
   "id": 1,
   "name": "Romeo and Juliet",
@@ -18,10 +18,9 @@ Result:
   "genre": "Love story"
 }
 
-PUT http:\\localhost:3000\api\book
+### PUT http:\\localhost:3000\api\book
 
-
-Result:
+#### Result:
 {
   "name": "Romeo and Juliet Rus",
   "author": "William Shakespeare",
