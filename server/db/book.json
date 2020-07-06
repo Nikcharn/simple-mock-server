@@ -1,0 +1,10 @@
+{
+    "books": [
+        {
+            "id": "9d7129a7-0d3f-4daf-b8f4-bf9f4045c130",
+            "name": "Romeo and Juliet",
+            "author": "William Shakespeare",
+            "genre": "Love story"
+        }
+    ]
+}
