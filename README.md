@@ -20,7 +20,7 @@
 
 ### PUT http:\\localhost:3000\api\book
 
-#### Result:
+#### Body:
 {
   "name": "Romeo and Juliet Rus",
   "author": "William Shakespeare",
